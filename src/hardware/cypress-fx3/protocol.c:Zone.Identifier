@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/
+HostUrl=https://raw.githubusercontent.com/sigrokproject/libsigrok/178edefa8aa3bb9a1dd957eca66e6a959e6f8d04/src/hardware/cypress-fx3/protocol.c
